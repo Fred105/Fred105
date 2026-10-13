@@ -1,16 +1,38 @@
-## Hi there 👋
+# Привет! Я Никита
 
-<!--
-**Fred105/Fred105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Мой проект
 
-Here are some ideas to get you started:
+```javascript
+body {
+  font-family: -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: #0f0f14; color: #eaeaea;
+  min-height: 100vh; overflow-x: hidden;
+  display: flex; justify-content: center;
+  zoom: 1.1;
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 1 — один
+* 2 — два
+* 3 — три
+
+- Элемент со знаком минус
++ Элемент со знаком плюс
+13. Нумерованный пункт
+45. Еще один нумерованный пункт
+
+| Лево | Центр | Право |
+| :--- | :---: | ---: |
+| Текст | Текст | Текст |
+
+> Это оформленный блок важной цитаты или примечания.
+
+![Мой мем](https:%2F%2Fi.ibb.co%2Ftq3vM8y%2Fmeme.jpg)
+
+- [ ] Невыполненная задача
+- [x] Выполненная задача
+
+Первая строка текста.<br>Вторая строка текста (перенос с помощью br).
+
+---
+Текст после горизонтальной линии hr.
